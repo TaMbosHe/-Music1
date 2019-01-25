@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=!
-game=Break | !play
+owner=488698374560677888
+prefix=T
+game=My love is MeéRcy
 stayinchannel=true
 songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+token=NTM4Mzk3MzI1ODkwOTQ1MDg0.DyzNUA.W9htFh8Lf93QHi_DMLl6s36_Iag
